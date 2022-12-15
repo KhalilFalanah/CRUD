@@ -1,0 +1,82 @@
+
+@import url(' https://fonts.cdnfonts.com/css/montserrat ');
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    width: 100vw;
+    
+}
+
+h1{
+    font-size: 4rem;
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li{
+    margin: 0 15px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.612);
+    padding: 0px 15px;
+    font-size: 25px;
+    border: 2px solid rgba(0, 0, 0, 0.612);
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 38px;
+}
+
+header{
+    height: calc(100vh - 150px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(img/casa.png);
+}
+
+.sobre{
+    max-width: 400px;
+    margin: 150px auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.content-header {
+margin-top: 100px;
+margin-left: 385px;
+}
+
+.content-header-text{
+    margin-left: 180px;
+}
+
+.content-header-title{
+    margin-left: 120px;
+    color: rgba(0, 0, 0, 0.612);
+}
+
+.cad{
+    padding-left: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(img/casa2.png);
+    height: 100vh;
+    padding-top: 50px;
+}

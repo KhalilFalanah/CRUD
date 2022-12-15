@@ -1,0 +1,49 @@
+#cadastroAtendente{
+ width: 300px;
+ height: 300px;
+margin-left: 450px;
+border-color: transparent;
+}
+
+#cadastroContato{
+ width: 300px;
+margin-left: 450px;
+ border-color: transparent;
+}
+
+#cadastroCorretor{
+ width: 300px;
+margin-left: 450px;
+ border-color: transparent;
+}
+
+#cadastroImovel{
+ width: 300px;
+margin-left: 450px;
+ border-color: transparent;
+}
+
+#cadastroInquilino{
+ width: 300px;
+margin-left: 450px;
+ border-color: transparent;
+}
+
+#cadastroProprietario{
+ width: 300px;
+margin-left: 450px;
+ border-color: transparent;
+}
+
+h1{
+   margin-left: 470px;
+   color: rgba(255, 255, 255, 0.608);
+}
+#branco{
+   color: white;
+
+}
+
+p{
+   color: white;
+}
